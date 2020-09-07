@@ -3,6 +3,7 @@
 ![image](https://miro.medium.com/max/3288/1*uAeANQIOQPqWZnnuH-VEyw.jpeg)
 
 **This code has been implemented in google Colab using the google GPU unit**
+[google Colab](https://github.com/rishabhCMS/DeepLearningProjects/blob/master/CNN_project_final.ipynb)
 
 ## Introduction
 
