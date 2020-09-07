@@ -173,7 +173,7 @@ plt.legend()
 
 plt.show()
 ```
-[image1]
+![image1](https://github.com/rishabhCMS/unbalanced_CNN/blob/master/images/img1.png)
 
 ##Overfitting:
 
@@ -200,6 +200,10 @@ datagen = ImageDataGenerator(
             fill_mode="nearest"
             )
 ```
+![](https://github.com/rishabhCMS/unbalanced_CNN/blob/master/images/aug1.png)
+![](https://github.com/rishabhCMS/unbalanced_CNN/blob/master/images/aug2.png)
+![](https://github.com/rishabhCMS/unbalanced_CNN/blob/master/images/aug3.png)
+![](https://github.com/rishabhCMS/unbalanced_CNN/blob/master/images/aug4.png)
 
 ## Visualizing the augmented Images
 
@@ -320,7 +324,9 @@ plt.legend()
 
 plt.show()
 ```
-![afterimage]
+![afterimage](https://github.com/rishabhCMS/unbalanced_CNN/blob/master/images/after1.png)
+![afterimage](https://github.com/rishabhCMS/unbalanced_CNN/blob/master/images/after2.png)
+
 **So, As you can see from above that we have sigificationlt reduced overfitting**
 
 ## Visualization of what convnets learn
@@ -404,10 +410,10 @@ for layer_name, layer_activation in zip(layer_names, activations):
 plt.show()
 ```
 
-con2d1
+![con2d1](https://github.com/rishabhCMS/unbalanced_CNN/blob/master/images/conv2d1.png)
 
-conv2d2
+![con2d2](https://github.com/rishabhCMS/unbalanced_CNN/blob/master/images/conv2d2.png)
 
-conv2d3
+![con2d3](https://github.com/rishabhCMS/unbalanced_CNN/blob/master/images/conv2d3.png)
 
-conv2d4
+![con2d4](https://github.com/rishabhCMS/unbalanced_CNN/blob/master/images/conv2d4.png)
